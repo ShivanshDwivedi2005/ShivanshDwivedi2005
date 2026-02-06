@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**ShivanshDwivedi2005/ShivanshDwivedi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Shivansh Dwivedi</h1>
 <h3 align="center">Full Stack Developer | ML Enthusiast | DSA Solver</h3>
 
@@ -36,7 +20,7 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
-  <img src="https://github.com/ShivanshDwivedi2005/ShivanshDwivedi2005/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ShivanshDwivedi2005/ShivanshDwivedi2005/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -68,9 +52,11 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ### 🧰 Tools
@@ -105,11 +91,12 @@ C++ OOP + File Handling based system
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fixed Version)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshDwivedi2005&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshDwivedi2005&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShivanshDwivedi2005&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=ShivanshDwivedi2005&theme=tokyonight" height="170"/>
 </p>
 
 ---
