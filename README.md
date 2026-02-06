@@ -99,7 +99,16 @@ C++ OOP + File Handling based system
 
 ---
 
-## 📊 GitHub Stats (Stable Working Version)
+## 🏆 LeetCode Stats 
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivanshdwivedi?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+
+---
+## 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShivanshDwivedi2005&theme=tokyonight" height="170"/>
@@ -109,13 +118,6 @@ C++ OOP + File Handling based system
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshDwivedi2005&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 LeetCode Stats 
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivanshdwivedi?theme=dark&font=Baloo&ext=contest" />
-</p>
 
 ---
 
