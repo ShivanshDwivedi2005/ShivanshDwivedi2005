@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Profile Visitor Counter
+## 🚀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivanshDwivedi2005&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShivanshDwivedi2005/ShivanshDwivedi2005/output/github-contribution-grid-snake.svg" />
@@ -43,10 +43,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
+---
+
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+---
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
@@ -54,10 +58,14 @@
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
 
+---
+
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+---
 
 ### 🧰 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -91,17 +99,19 @@ C++ OOP + File Handling based system
 
 ---
 
-## 📊 GitHub Stats (Fixed Version)
+## 📊 GitHub Stats (Stable Working Version)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShivanshDwivedi2005&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
-
   <img src="https://streak-stats.demolab.com?user=ShivanshDwivedi2005&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshDwivedi2005&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 LeetCode Stats (Auto Updating)
+## 🏆 LeetCode Stats 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shivanshdwivedi?theme=dark&font=Baloo&ext=contest" />
@@ -109,15 +119,7 @@ C++ OOP + File Handling based system
 
 ---
 
-## 🎯 Coding GIF Banner
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
-</p>
-
----
-
-## 📄 Resume Download Button
+## 📄 Resume Download
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1pJnSApa7i5Q4Ie9Qz_N3mvdiQtb-4Xd6/view?usp=sharing" target="_blank">
@@ -140,6 +142,10 @@ C++ OOP + File Handling based system
 
   <a href="https://leetcode.com/u/shivanshdwivedi/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
+  <a href="mailto:shivanshbharadwaj2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
