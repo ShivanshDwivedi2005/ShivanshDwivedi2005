@@ -133,7 +133,7 @@ C++ OOP + File Handling based system
 ## 📄 Resume Download Button
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1pJnSApa7i5Q4Ie9Qz_N3mvdiQtb-4Xd6/view?usp=sharing)/view" target="_blank">
+  <a href="https://drive.google.com/file/d/([https://drive.google.com/file/d/1pJnSApa7i5Q4Ie9Qz_N3mvdiQtb-4Xd6/view?usp=sharing](https://drive.google.com/file/d/1pJnSApa7i5Q4Ie9Qz_N3mvdiQtb-4Xd6/view?usp=sharing))/view" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=googledrive" />
   </a>
 </p>
