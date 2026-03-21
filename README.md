@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Profile Views
+##  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivanshDwivedi2005&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🐍 Contributions
+##  Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShivanshDwivedi2005/ShivanshDwivedi2005/output/github-contribution-grid-snake.svg" />
@@ -25,19 +25,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech CSE student at **IIIT Nagpur (2023–2027)**
-- 💻 Interested in **Full Stack Development & Machine Learning**
-- 🧠 Solved **600+ DSA problems**
-- ⭐ CodeChef **3-Star (1652 Rating)**
-- 📌 Building scalable SaaS & backend systems
+-  B.Tech CSE student at **IIIT Nagpur (2023–2027)**
+-  Interested in **Full Stack Development & Machine Learning**
+-  Solved **600+ DSA problems**
+-  CodeChef **3-Star (1652 Rating)**
+-  Building scalable SaaS & backend systems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -45,14 +45,14 @@
 
 ---
 
-### 🌐 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ---
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
@@ -60,23 +60,23 @@
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
-### 🧰 Tools
+###  Tools
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🎓 Eduportal (SaaS Platform)
+###  Eduportal (SaaS Platform)
 Full-stack platform managing admissions, academics, attendance, fees & results  
 - JWT Auth + Role-based dashboards  
 - Used by **5K+ students**  
@@ -84,7 +84,7 @@ Full-stack platform managing admissions, academics, attendance, fees & results
 
 ---
 
-### 📈 Stock Prediction Model
+###  Stock Prediction Model
 ML pipeline predicting **NIFTY50 & SENSEX** trends  
 - Built indicators using OHLC + rolling stats  
 - Improved stability by **18%**  
@@ -92,14 +92,14 @@ ML pipeline predicting **NIFTY50 & SENSEX** trends
 
 ---
 
-### 🏫 Faculty Management System
+###  Faculty Management System
 C++ OOP + File Handling based system  
 - Persistent storage for 500+ faculty records  
 - Avg lookup time: **0.02s**
 
 ---
 
-## 🏆 LeetCode Stats 
+##  LeetCode Stats 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shivanshdwivedi?theme=dark&font=Baloo&ext=contest" />
@@ -107,7 +107,7 @@ C++ OOP + File Handling based system
 
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <p align="center">
@@ -121,7 +121,7 @@ C++ OOP + File Handling based system
 
 ---
 
-## 📄 Resume Download
+##  Resume Download
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1pJnSApa7i5Q4Ie9Qz_N3mvdiQtb-4Xd6/view?usp=sharing" target="_blank">
@@ -131,7 +131,7 @@ C++ OOP + File Handling based system
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/ShivanshDwivedi2005">
