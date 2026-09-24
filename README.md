@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Dwivedi</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast | DSA Solver</h3>
+<h3 align="center">Quant and Backend Developer | Low Latency Development | DSA Solver</h3>
 
 ---
 
@@ -27,7 +27,7 @@
 
 ##  About Me
 
--  B.Tech CSE student at **IIIT Nagpur (2023–2027)**
+-  B.Tech CSE student at **IIIT Nagpur (2023–2027)** and Quant Developer Intern at **Futures First*
 -  Interested in **Full Stack Development & Machine Learning**
 -  Solved **600+ DSA problems**
 -  CodeChef **3-Star (1652 Rating)**
