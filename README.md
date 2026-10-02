@@ -29,7 +29,8 @@
 
 -  B.Tech CSE student at **IIIT Nagpur (2023–2027)** and Quant Developer Intern at **Futures First*
 -  Interested in **Full Stack Development & Machine Learning**
--  Solved **600+ DSA problems**
+-  Solved **1,000+ DSA problems**
+-  LeetCode **Knight (1853 Rating)**
 -  CodeChef **3-Star (1652 Rating)**
 -  Building scalable SaaS & backend systems
 
